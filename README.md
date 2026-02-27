@@ -36,9 +36,13 @@ git clone https://github.com/YOUR_USERNAME/GradeTrack-MVP.git
 cd GradeTrack-MVP
 ```
 
-2. ```bash
+2. Install npm and run it locally
+   ```bash
    npm install
-   npm run dev
+   ```
+   ```bash
+    npm run dev
+   ```
+   ```bash
    open http in browser
    ```
-
