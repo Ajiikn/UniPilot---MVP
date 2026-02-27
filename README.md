@@ -32,17 +32,17 @@ UniPilot is a free, web-based application that helps students calculate and trac
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/GradeTrack-MVP.git
+git clone https://github.com/YOUR_USERNAME/UniPilot-MVP.git
 cd GradeTrack-MVP
 ```
 
-2. Install npm and run it locally
+2. Install npm:
    ```bash
    npm install
    ```
+3. Run it locally:
    ```bash
     npm run dev
    ```
-   ```bash
-   open http in browser
-   ```
+4. Open http in browser
+ 
