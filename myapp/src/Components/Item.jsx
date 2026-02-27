@@ -6,7 +6,7 @@ export default function Item({ course, setCourse }) {
   return (
     <>
       <form>
-        <label>Couse Title:</label>
+        <label>Course Title:</label>
         <input
           type="text"
           name="courseTitle"
